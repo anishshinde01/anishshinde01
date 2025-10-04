@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anish
-- 🧑‍🎓 Computer Science undergraduate student at Goethe University Frankfurt, Germany
+- 👋 Hello World! Welcome to my GitHub Profile.
+- 🧑‍🎓 I am Anish, 4th Sem Undergrad Student @ Goethe Uni Frankfurt.
 - 🌎 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/anish-shinde-09344b2a6/)
 
 <!---
